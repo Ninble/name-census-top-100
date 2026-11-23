@@ -1,0 +1,234 @@
+Country code;Country name;Continent;Population;Frequency source;Reliability;Usable profiles
+AD;Andorra;Europe;82904;estimate;low;1933
+AE;United Arab Emirates;Asia;11513149;estimate;low;63463
+AF;Afghanistan;Asia;43844111;estimate;medium;34916
+AG;Antigua and Barbuda;North America;94209;estimate;low;607
+AI;Anguilla;North America;0;estimate;low;
+AL;Albania;Europe;2349580;estimate;medium;13492
+AM;Armenia;Asia;3086700;estimate;low;6184
+AO;Angola;Africa;39040039;estimate;medium;13425
+AR;Argentina;South America;45851378;estimate;high;329184
+AT;Austria;Europe;9208163;estimate;high;69116
+AU;Australia;Oceania;27614411;estimate;high;312700
+AW;Aruba;North America;108785;estimate;low;3834
+AZ;Azerbaijan;Asia;10246996;estimate;medium;11342
+BA;Bosnia and Herzegovina;Europe;3140095;estimate;medium;18262
+BB;Barbados;North America;282623;estimate;low;2548
+BD;Bangladesh;Asia;175686899;estimate;high;84494
+BE;Belgium;Europe;11941781;count;high;
+BF;Burkina Faso;Africa;24074580;estimate;medium;11804
+BG;Bulgaria;Europe;6433302;estimate;medium;39151
+BH;Bahrain;Asia;1600366;estimate;low;5260
+BI;Burundi;Africa;14390003;estimate;low;1359
+BJ;Benin;Africa;14814460;estimate;low;6142
+BM;Bermuda;North America;64555;estimate;medium;25919
+BN;Brunei;Asia;466330;estimate;low;1017
+BO;Bolivia;South America;12581843;estimate;medium;19634
+BR;Brazil;South America;212812405;count;high;
+BS;Bahamas;North America;403033;estimate;low;8357
+BT;Bhutan;Asia;796682;estimate;low;732
+BW;Botswana;Africa;2562122;estimate;low;2723
+BY;Belarus;Europe;9085991;estimate;medium;29233
+BZ;Belize;North America;422924;estimate;low;8562
+CA;Canada;North America;41651653;estimate;high;539294
+CC;Cocos [Keeling] Islands;Asia;0;estimate;low;
+CD;Congo;Africa;112832473;estimate;medium;11236
+CF;Central African Republic;Africa;5513282;estimate;low;2636
+CG;Republic of the Congo;Africa;6484437;estimate;low;5709
+CH;Switzerland;Europe;9092436;count;high;
+CI;Ivory Coast;Africa;32711547;estimate;medium;18508
+CK;Cook Islands;Oceania;14987;estimate;low;116
+CL;Chile;South America;19859921;estimate;high;129628
+CM;Cameroon;Africa;29879337;estimate;medium;32836
+CN;China;Asia;1406585000;count;medium;
+CO;Colombia;South America;53425635;estimate;high;355363
+CR;Costa Rica;North America;5152950;estimate;medium;41370
+CU;Cuba;North America;10937203;estimate;medium;10290
+CV;Cape Verde;Africa;527326;estimate;low;7821
+CX;Christmas Island;Asia;0;estimate;low;
+CY;Cyprus;Europe;1370754;estimate;medium;10476
+CZ;Czech Republic;Europe;10886878;estimate;high;86159
+DE;Germany;Europe;83491249;estimate;high;572893
+DJ;Djibouti;Africa;1184076;estimate;low;1214
+DK;Denmark;Europe;6009169;count;high;
+DM;Dominica;North America;65871;estimate;low;1796
+DO;Dominican Republic;North America;11520487;estimate;high;60431
+DZ;Algeria;Africa;47435312;estimate;low;46666
+EC;Ecuador;South America;18289896;count;high;
+EE;Estonia;Europe;1366475;count;high;
+EG;Egypt;Africa;118365995;estimate;low;281455
+EH;Western Sahara;Africa;0;estimate;low;
+ER;Eritrea;Africa;3607003;estimate;low;333
+ES;Spain;Europe;49355143;count;high;
+ET;Ethiopia;Africa;135472051;estimate;medium;12625
+FI;Finland;Europe;5646436;count;high;
+FJ;Fiji;Oceania;933154;estimate;low;2878
+FK;Falkland Islands;South America;0;estimate;low;
+FM;Micronesia;Oceania;113683;estimate;low;242
+FO;Faroe Islands;Europe;54900;count;high;
+FR;France;Europe;68720337;estimate;high;605880
+GA;Gabon;Africa;2593130;estimate;low;3549
+GB;United Kingdom;Europe;69487000;estimate;high;2491243
+GD;Grenada;North America;117303;estimate;low;733
+GE;Georgia;Asia;3935766;estimate;medium;24623
+GF;French Guiana;South America;292400;estimate;low;0
+GG;Guernsey;Europe;0;estimate;low;
+GH;Ghana;Africa;35064272;estimate;high;53794
+GI;Gibraltar;Europe;40126;estimate;low;2091
+GL;Greenland;North America;56831;count;high;
+GM;Gambia;Africa;2822093;estimate;low;4723
+GN;Guinea;Africa;15099727;estimate;low;9819
+GP;Guadeloupe;North America;380400;estimate;low;1780
+GQ;Equatorial Guinea;Africa;1938431;estimate;low;369
+GR;Greece;Europe;10413962;count;high;
+GT;Guatemala;North America;18687881;estimate;medium;45831
+GW;Guinea-Bissau;Africa;2249515;estimate;low;340
+GY;Guyana;South America;835986;estimate;low;1769
+HK;Hong Kong;Asia;7498900;estimate;medium;26733
+HN;Honduras;North America;11005850;estimate;medium;34794
+HR;Croatia;Europe;3876200;estimate;medium;22921
+HT;Haiti;North America;11906095;estimate;low;7990
+HU;Hungary;Europe;9514251;count;high;
+ID;Indonesia;Asia;285721236;estimate;high;270595
+IE;Ireland;Europe;5484367;estimate;high;208477
+IL;Israel;Asia;10122800;estimate;low;23349
+IM;Isle of Man;Europe;84118;estimate;low;3936
+IN;India;Asia;1463865525;estimate;high;725045
+IQ;Iraq;Asia;47020774;estimate;low;37580
+IR;Iran;Asia;92417681;estimate;low;35710
+IS;Iceland;Europe;392404;estimate;low;7321
+IT;Italy;Europe;58915656;estimate;high;483966
+JE;Jersey;Europe;0;estimate;low;
+JM;Jamaica;North America;2837077;estimate;high;148572
+JO;Jordan;Asia;11520684;estimate;low;17621
+JP;Japan;Asia;123366734;estimate;low;53804
+KE;Kenya;Africa;57532493;estimate;high;62910
+KG;Kyrgyzstan;Asia;7343064;estimate;low;4760
+KH;Cambodia;Asia;17847982;estimate;low;4454
+KI;Kiribati;Oceania;136488;estimate;low;72
+KM;Comoros;Africa;882847;estimate;low;376
+KN;Saint Kitts and Nevis;North America;46922;estimate;low;184
+KP;North Korea;Asia;26571036;estimate;low;322
+KR;South Korea;Asia;51684564;estimate;low;28788
+KW;Kuwait;Asia;4865298;estimate;low;18466
+KY;Cayman Islands;North America;75844;estimate;low;1231
+KZ;Kazakhstan;Asia;20843754;count;high;
+LA;Laos;Asia;7873046;estimate;low;431
+LB;Lebanon;Asia;5849421;estimate;low;29575
+LC;Saint Lucia;North America;180149;estimate;low;575
+LI;Liechtenstein;Europe;41024;estimate;low;437
+LK;Sri Lanka;Asia;21756000;estimate;medium;10680
+LR;Liberia;Africa;5731206;estimate;medium;49303
+LS;Lesotho;Africa;2363325;estimate;low;1342
+LT;Lithuania;Europe;2888774;count;high;
+LU;Luxembourg;Europe;686970;estimate;medium;27656
+LV;Latvia;Europe;1847785;count;high;
+LY;Libya;Africa;7458555;estimate;low;7548
+MA;Morocco;Africa;38430770;estimate;low;33577
+MC;Monaco;Europe;38341;estimate;low;2185
+MD;Moldova;Europe;2360527;estimate;low;5082
+ME;Montenegro;Europe;623129;estimate;low;4783
+MG;Madagascar;Africa;32740678;estimate;low;2288
+MH;Marshall Islands;Oceania;36282;estimate;low;66
+MK;Macedonia;Europe;1820909;estimate;medium;10184
+ML;Mali;Africa;25198821;estimate;low;7827
+MM;Myanmar [Burma];Asia;54850648;estimate;low;8739
+MN;Mongolia;Asia;3568978;estimate;low;1704
+MO;Macao;Asia;685900;estimate;low;1007
+MP;Northern Mariana Islands;Oceania;43541;estimate;low;582
+MQ;Martinique;North America;355500;estimate;low;0
+MR;Mauritania;Africa;5315065;count;high;
+MS;Montserrat;North America;0;estimate;low;
+MT;Malta;Europe;579704;estimate;low;6634
+MU;Mauritius;Africa;1243741;estimate;low;3008
+MV;Maldives;Asia;529676;estimate;low;3014
+MW;Malawi;Africa;22216120;estimate;low;2449
+MX;Mexico;North America;131946900;estimate;high;556935
+MY;Malaysia;Asia;35977838;estimate;high;56129
+MZ;Mozambique;Africa;35631653;estimate;low;6529
+NA;Namibia;Africa;3092816;estimate;low;4305
+NC;New Caledonia;Oceania;295333;estimate;low;1037
+NE;Niger;Africa;27917831;estimate;low;3443
+NG;Nigeria;Africa;237527782;estimate;high;165897
+NI;Nicaragua;North America;7007502;estimate;medium;36605
+NL;Netherlands;Europe;18087633;count;high;
+NO;Norway;Europe;5610870;count;high;
+NP;Nepal;Asia;29618118;estimate;medium;36725
+NR;Nauru;Oceania;12025;estimate;low;41
+NU;Niue;Oceania;0;estimate;low;
+NZ;New Zealand;Oceania;5324700;estimate;medium;49990
+OM;Oman;Asia;5494691;estimate;low;9818
+PA;Panama;North America;4571189;estimate;medium;29129
+PE;Peru;South America;34576665;estimate;high;104025
+PF;French Polynesia;Oceania;282465;estimate;low;470
+PG;Papua New Guinea;Oceania;10762817;estimate;low;5491
+PH;Philippines;Asia;116786962;estimate;high;142030
+PK;Pakistan;Asia;255219554;estimate;high;263105
+PL;Poland;Europe;36435861;count;high;
+PM;Saint Pierre and Miquelon;North America;0;estimate;low;
+PN;Pitcairn Islands;Oceania;0;estimate;low;
+PR;Puerto Rico;North America;3184835;estimate;low;0
+PS;Palestine;Asia;5413596;estimate;low;10678
+PT;Portugal;Europe;10804871;estimate;high;93681
+PW;Palau;Oceania;17663;estimate;low;89
+PY;Paraguay;South America;7013078;estimate;high;62033
+QA;Qatar;Asia;2972215;estimate;low;13952
+RE;Réunion;Africa;896200;estimate;low;3125
+RO;Romania;Europe;19020271;estimate;high;70382
+RS;Serbia;Europe;6549143;estimate;medium;42627
+RU;Russia;Europe;143513328;estimate;high;457804
+RW;Rwanda;Africa;14569341;estimate;low;5250
+SA;Saudi Arabia;Asia;36973555;estimate;low;57074
+SB;Solomon Islands;Oceania;838645;count;high;
+SC;Seychelles;Africa;122730;estimate;low;3039
+SD;Sudan;Africa;51662147;estimate;low;13072
+SE;Sweden;Europe;10596620;count;high;
+SG;Singapore;Asia;6111175;estimate;high;102792
+SH;Saint Helena;Africa;0;estimate;low;
+SI;Slovenia;Europe;2130986;count;high;
+SJ;Svalbard and Jan Mayen;Europe;0;estimate;low;
+SK;Slovakia;Europe;5413813;estimate;medium;33366
+SL;Sierra Leone;Africa;8819794;estimate;low;4276
+SM;San Marino;Europe;34109;estimate;low;472
+SN;Senegal;Africa;18931966;estimate;medium;21707
+SO;Somalia;Africa;19654739;estimate;low;14568
+SR;Suriname;South America;639850;estimate;low;2702
+SS;South Sudan;Africa;12188788;estimate;low;804
+ST;São Tomé and Príncipe;Africa;240254;estimate;low;133
+SV;El Salvador;North America;6365503;estimate;medium;35066
+SY;Syria;Asia;25620427;estimate;low;15593
+SZ;Swaziland;Africa;1256174;estimate;low;604
+TC;Turks and Caicos Islands;North America;46855;estimate;low;3427
+TD;Chad;Africa;21003705;estimate;low;2413
+TG;Togo;Africa;8591626;estimate;low;2848
+TH;Thailand;Asia;71619863;estimate;low;24722
+TJ;Tajikistan;Asia;10786734;estimate;low;1124
+TK;Tokelau;Oceania;0;estimate;low;
+TL;EAST TIMOR;Asia;1418517;estimate;low;1320
+TM;Turkmenistan;Asia;7618847;estimate;low;520
+TN;Tunisia;Africa;12348573;estimate;low;17608
+TO;Tonga;Oceania;103742;estimate;low;410
+TR;Turkey;Asia;85878556;count;high;
+TT;Trinidad and Tobago;North America;1367764;estimate;low;6778
+TV;Tuvalu;Oceania;9492;estimate;low;43
+TW;Taiwan;Asia;23224721;count;high;
+TZ;Tanzania;Africa;70545865;estimate;medium;17806
+UA;Ukraine;Europe;38980376;estimate;high;108336
+UG;Uganda;Africa;51384894;estimate;medium;19415
+US;United States;North America;341784857;count;high;
+UY;Uruguay;South America;3384688;estimate;medium;43717
+UZ;Uzbekistan;Asia;37053428;estimate;low;6697
+VC;Saint Vincent;North America;99924;count;high;
+VE;Venezuela;South America;28516896;count;high;
+VG;British Virgin Islands;North America;39732;estimate;low;1622
+VI;U.S. Virgin Islands;North America;103792;estimate;low;2731
+VN;Vietnam;Asia;101598527;estimate;medium;36816
+VU;Vanuatu;Oceania;335169;estimate;low;280
+WF;Wallis and Futuna;Oceania;0;estimate;low;
+WS;Samoa;Oceania;219306;estimate;low;275
+XK;Kosovo;Asia;1576876;estimate;low;0
+YE;Yemen;Africa;41773878;estimate;low;15331
+YT;Mayotte;Africa;329000;estimate;low;3546
+ZA;South Africa;Africa;64747319;estimate;high;166628
+ZM;Zambia;Africa;21913874;estimate;medium;13788
+ZW;Zimbabwe;Africa;16950795;estimate;medium;12799

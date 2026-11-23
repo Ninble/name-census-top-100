@@ -1,0 +1,2099 @@
+[
+  {
+    "Country code": "AD",
+    "Country name": "Andorra",
+    "Continent": "Europe",
+    "Population": "82904",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1933"
+  },
+  {
+    "Country code": "AE",
+    "Country name": "United Arab Emirates",
+    "Continent": "Asia",
+    "Population": "11513149",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "63463"
+  },
+  {
+    "Country code": "AF",
+    "Country name": "Afghanistan",
+    "Continent": "Asia",
+    "Population": "43844111",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "34916"
+  },
+  {
+    "Country code": "AG",
+    "Country name": "Antigua and Barbuda",
+    "Continent": "North America",
+    "Population": "94209",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "607"
+  },
+  {
+    "Country code": "AI",
+    "Country name": "Anguilla",
+    "Continent": "North America",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "AL",
+    "Country name": "Albania",
+    "Continent": "Europe",
+    "Population": "2349580",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "13492"
+  },
+  {
+    "Country code": "AM",
+    "Country name": "Armenia",
+    "Continent": "Asia",
+    "Population": "3086700",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "6184"
+  },
+  {
+    "Country code": "AO",
+    "Country name": "Angola",
+    "Continent": "Africa",
+    "Population": "39040039",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "13425"
+  },
+  {
+    "Country code": "AR",
+    "Country name": "Argentina",
+    "Continent": "South America",
+    "Population": "45851378",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "329184"
+  },
+  {
+    "Country code": "AT",
+    "Country name": "Austria",
+    "Continent": "Europe",
+    "Population": "9208163",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "69116"
+  },
+  {
+    "Country code": "AU",
+    "Country name": "Australia",
+    "Continent": "Oceania",
+    "Population": "27614411",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "312700"
+  },
+  {
+    "Country code": "AW",
+    "Country name": "Aruba",
+    "Continent": "North America",
+    "Population": "108785",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "3834"
+  },
+  {
+    "Country code": "AZ",
+    "Country name": "Azerbaijan",
+    "Continent": "Asia",
+    "Population": "10246996",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "11342"
+  },
+  {
+    "Country code": "BA",
+    "Country name": "Bosnia and Herzegovina",
+    "Continent": "Europe",
+    "Population": "3140095",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "18262"
+  },
+  {
+    "Country code": "BB",
+    "Country name": "Barbados",
+    "Continent": "North America",
+    "Population": "282623",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "2548"
+  },
+  {
+    "Country code": "BD",
+    "Country name": "Bangladesh",
+    "Continent": "Asia",
+    "Population": "175686899",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "84494"
+  },
+  {
+    "Country code": "BE",
+    "Country name": "Belgium",
+    "Continent": "Europe",
+    "Population": "11941781",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "BF",
+    "Country name": "Burkina Faso",
+    "Continent": "Africa",
+    "Population": "24074580",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "11804"
+  },
+  {
+    "Country code": "BG",
+    "Country name": "Bulgaria",
+    "Continent": "Europe",
+    "Population": "6433302",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "39151"
+  },
+  {
+    "Country code": "BH",
+    "Country name": "Bahrain",
+    "Continent": "Asia",
+    "Population": "1600366",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "5260"
+  },
+  {
+    "Country code": "BI",
+    "Country name": "Burundi",
+    "Continent": "Africa",
+    "Population": "14390003",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1359"
+  },
+  {
+    "Country code": "BJ",
+    "Country name": "Benin",
+    "Continent": "Africa",
+    "Population": "14814460",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "6142"
+  },
+  {
+    "Country code": "BM",
+    "Country name": "Bermuda",
+    "Continent": "North America",
+    "Population": "64555",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "25919"
+  },
+  {
+    "Country code": "BN",
+    "Country name": "Brunei",
+    "Continent": "Asia",
+    "Population": "466330",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1017"
+  },
+  {
+    "Country code": "BO",
+    "Country name": "Bolivia",
+    "Continent": "South America",
+    "Population": "12581843",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "19634"
+  },
+  {
+    "Country code": "BR",
+    "Country name": "Brazil",
+    "Continent": "South America",
+    "Population": "212812405",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "BS",
+    "Country name": "Bahamas",
+    "Continent": "North America",
+    "Population": "403033",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "8357"
+  },
+  {
+    "Country code": "BT",
+    "Country name": "Bhutan",
+    "Continent": "Asia",
+    "Population": "796682",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "732"
+  },
+  {
+    "Country code": "BW",
+    "Country name": "Botswana",
+    "Continent": "Africa",
+    "Population": "2562122",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "2723"
+  },
+  {
+    "Country code": "BY",
+    "Country name": "Belarus",
+    "Continent": "Europe",
+    "Population": "9085991",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "29233"
+  },
+  {
+    "Country code": "BZ",
+    "Country name": "Belize",
+    "Continent": "North America",
+    "Population": "422924",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "8562"
+  },
+  {
+    "Country code": "CA",
+    "Country name": "Canada",
+    "Continent": "North America",
+    "Population": "41651653",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "539294"
+  },
+  {
+    "Country code": "CC",
+    "Country name": "Cocos [Keeling] Islands",
+    "Continent": "Asia",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "CD",
+    "Country name": "Congo",
+    "Continent": "Africa",
+    "Population": "112832473",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "11236"
+  },
+  {
+    "Country code": "CF",
+    "Country name": "Central African Republic",
+    "Continent": "Africa",
+    "Population": "5513282",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "2636"
+  },
+  {
+    "Country code": "CG",
+    "Country name": "Republic of the Congo",
+    "Continent": "Africa",
+    "Population": "6484437",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "5709"
+  },
+  {
+    "Country code": "CH",
+    "Country name": "Switzerland",
+    "Continent": "Europe",
+    "Population": "9092436",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "CI",
+    "Country name": "Ivory Coast",
+    "Continent": "Africa",
+    "Population": "32711547",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "18508"
+  },
+  {
+    "Country code": "CK",
+    "Country name": "Cook Islands",
+    "Continent": "Oceania",
+    "Population": "14987",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "116"
+  },
+  {
+    "Country code": "CL",
+    "Country name": "Chile",
+    "Continent": "South America",
+    "Population": "19859921",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "129628"
+  },
+  {
+    "Country code": "CM",
+    "Country name": "Cameroon",
+    "Continent": "Africa",
+    "Population": "29879337",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "32836"
+  },
+  {
+    "Country code": "CN",
+    "Country name": "China",
+    "Continent": "Asia",
+    "Population": "1406585000",
+    "Frequency source": "count",
+    "Reliability": "medium",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "CO",
+    "Country name": "Colombia",
+    "Continent": "South America",
+    "Population": "53425635",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "355363"
+  },
+  {
+    "Country code": "CR",
+    "Country name": "Costa Rica",
+    "Continent": "North America",
+    "Population": "5152950",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "41370"
+  },
+  {
+    "Country code": "CU",
+    "Country name": "Cuba",
+    "Continent": "North America",
+    "Population": "10937203",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "10290"
+  },
+  {
+    "Country code": "CV",
+    "Country name": "Cape Verde",
+    "Continent": "Africa",
+    "Population": "527326",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "7821"
+  },
+  {
+    "Country code": "CX",
+    "Country name": "Christmas Island",
+    "Continent": "Asia",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "CY",
+    "Country name": "Cyprus",
+    "Continent": "Europe",
+    "Population": "1370754",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "10476"
+  },
+  {
+    "Country code": "CZ",
+    "Country name": "Czech Republic",
+    "Continent": "Europe",
+    "Population": "10886878",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "86159"
+  },
+  {
+    "Country code": "DE",
+    "Country name": "Germany",
+    "Continent": "Europe",
+    "Population": "83491249",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "572893"
+  },
+  {
+    "Country code": "DJ",
+    "Country name": "Djibouti",
+    "Continent": "Africa",
+    "Population": "1184076",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1214"
+  },
+  {
+    "Country code": "DK",
+    "Country name": "Denmark",
+    "Continent": "Europe",
+    "Population": "6009169",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "DM",
+    "Country name": "Dominica",
+    "Continent": "North America",
+    "Population": "65871",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1796"
+  },
+  {
+    "Country code": "DO",
+    "Country name": "Dominican Republic",
+    "Continent": "North America",
+    "Population": "11520487",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "60431"
+  },
+  {
+    "Country code": "DZ",
+    "Country name": "Algeria",
+    "Continent": "Africa",
+    "Population": "47435312",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "46666"
+  },
+  {
+    "Country code": "EC",
+    "Country name": "Ecuador",
+    "Continent": "South America",
+    "Population": "18289896",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "EE",
+    "Country name": "Estonia",
+    "Continent": "Europe",
+    "Population": "1366475",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "EG",
+    "Country name": "Egypt",
+    "Continent": "Africa",
+    "Population": "118365995",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "281455"
+  },
+  {
+    "Country code": "EH",
+    "Country name": "Western Sahara",
+    "Continent": "Africa",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "ER",
+    "Country name": "Eritrea",
+    "Continent": "Africa",
+    "Population": "3607003",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "333"
+  },
+  {
+    "Country code": "ES",
+    "Country name": "Spain",
+    "Continent": "Europe",
+    "Population": "49355143",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "ET",
+    "Country name": "Ethiopia",
+    "Continent": "Africa",
+    "Population": "135472051",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "12625"
+  },
+  {
+    "Country code": "FI",
+    "Country name": "Finland",
+    "Continent": "Europe",
+    "Population": "5646436",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "FJ",
+    "Country name": "Fiji",
+    "Continent": "Oceania",
+    "Population": "933154",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "2878"
+  },
+  {
+    "Country code": "FK",
+    "Country name": "Falkland Islands",
+    "Continent": "South America",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "FM",
+    "Country name": "Micronesia",
+    "Continent": "Oceania",
+    "Population": "113683",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "242"
+  },
+  {
+    "Country code": "FO",
+    "Country name": "Faroe Islands",
+    "Continent": "Europe",
+    "Population": "54900",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "FR",
+    "Country name": "France",
+    "Continent": "Europe",
+    "Population": "68720337",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "605880"
+  },
+  {
+    "Country code": "GA",
+    "Country name": "Gabon",
+    "Continent": "Africa",
+    "Population": "2593130",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "3549"
+  },
+  {
+    "Country code": "GB",
+    "Country name": "United Kingdom",
+    "Continent": "Europe",
+    "Population": "69487000",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "2491243"
+  },
+  {
+    "Country code": "GD",
+    "Country name": "Grenada",
+    "Continent": "North America",
+    "Population": "117303",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "733"
+  },
+  {
+    "Country code": "GE",
+    "Country name": "Georgia",
+    "Continent": "Asia",
+    "Population": "3935766",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "24623"
+  },
+  {
+    "Country code": "GF",
+    "Country name": "French Guiana",
+    "Continent": "South America",
+    "Population": "292400",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "0"
+  },
+  {
+    "Country code": "GG",
+    "Country name": "Guernsey",
+    "Continent": "Europe",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "GH",
+    "Country name": "Ghana",
+    "Continent": "Africa",
+    "Population": "35064272",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "53794"
+  },
+  {
+    "Country code": "GI",
+    "Country name": "Gibraltar",
+    "Continent": "Europe",
+    "Population": "40126",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "2091"
+  },
+  {
+    "Country code": "GL",
+    "Country name": "Greenland",
+    "Continent": "North America",
+    "Population": "56831",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "GM",
+    "Country name": "Gambia",
+    "Continent": "Africa",
+    "Population": "2822093",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "4723"
+  },
+  {
+    "Country code": "GN",
+    "Country name": "Guinea",
+    "Continent": "Africa",
+    "Population": "15099727",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "9819"
+  },
+  {
+    "Country code": "GP",
+    "Country name": "Guadeloupe",
+    "Continent": "North America",
+    "Population": "380400",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1780"
+  },
+  {
+    "Country code": "GQ",
+    "Country name": "Equatorial Guinea",
+    "Continent": "Africa",
+    "Population": "1938431",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "369"
+  },
+  {
+    "Country code": "GR",
+    "Country name": "Greece",
+    "Continent": "Europe",
+    "Population": "10413962",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "GT",
+    "Country name": "Guatemala",
+    "Continent": "North America",
+    "Population": "18687881",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "45831"
+  },
+  {
+    "Country code": "GW",
+    "Country name": "Guinea-Bissau",
+    "Continent": "Africa",
+    "Population": "2249515",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "340"
+  },
+  {
+    "Country code": "GY",
+    "Country name": "Guyana",
+    "Continent": "South America",
+    "Population": "835986",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1769"
+  },
+  {
+    "Country code": "HK",
+    "Country name": "Hong Kong",
+    "Continent": "Asia",
+    "Population": "7498900",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "26733"
+  },
+  {
+    "Country code": "HN",
+    "Country name": "Honduras",
+    "Continent": "North America",
+    "Population": "11005850",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "34794"
+  },
+  {
+    "Country code": "HR",
+    "Country name": "Croatia",
+    "Continent": "Europe",
+    "Population": "3876200",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "22921"
+  },
+  {
+    "Country code": "HT",
+    "Country name": "Haiti",
+    "Continent": "North America",
+    "Population": "11906095",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "7990"
+  },
+  {
+    "Country code": "HU",
+    "Country name": "Hungary",
+    "Continent": "Europe",
+    "Population": "9514251",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "ID",
+    "Country name": "Indonesia",
+    "Continent": "Asia",
+    "Population": "285721236",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "270595"
+  },
+  {
+    "Country code": "IE",
+    "Country name": "Ireland",
+    "Continent": "Europe",
+    "Population": "5484367",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "208477"
+  },
+  {
+    "Country code": "IL",
+    "Country name": "Israel",
+    "Continent": "Asia",
+    "Population": "10122800",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "23349"
+  },
+  {
+    "Country code": "IM",
+    "Country name": "Isle of Man",
+    "Continent": "Europe",
+    "Population": "84118",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "3936"
+  },
+  {
+    "Country code": "IN",
+    "Country name": "India",
+    "Continent": "Asia",
+    "Population": "1463865525",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "725045"
+  },
+  {
+    "Country code": "IQ",
+    "Country name": "Iraq",
+    "Continent": "Asia",
+    "Population": "47020774",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "37580"
+  },
+  {
+    "Country code": "IR",
+    "Country name": "Iran",
+    "Continent": "Asia",
+    "Population": "92417681",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "35710"
+  },
+  {
+    "Country code": "IS",
+    "Country name": "Iceland",
+    "Continent": "Europe",
+    "Population": "392404",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "7321"
+  },
+  {
+    "Country code": "IT",
+    "Country name": "Italy",
+    "Continent": "Europe",
+    "Population": "58915656",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "483966"
+  },
+  {
+    "Country code": "JE",
+    "Country name": "Jersey",
+    "Continent": "Europe",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "JM",
+    "Country name": "Jamaica",
+    "Continent": "North America",
+    "Population": "2837077",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "148572"
+  },
+  {
+    "Country code": "JO",
+    "Country name": "Jordan",
+    "Continent": "Asia",
+    "Population": "11520684",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "17621"
+  },
+  {
+    "Country code": "JP",
+    "Country name": "Japan",
+    "Continent": "Asia",
+    "Population": "123366734",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "53804"
+  },
+  {
+    "Country code": "KE",
+    "Country name": "Kenya",
+    "Continent": "Africa",
+    "Population": "57532493",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "62910"
+  },
+  {
+    "Country code": "KG",
+    "Country name": "Kyrgyzstan",
+    "Continent": "Asia",
+    "Population": "7343064",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "4760"
+  },
+  {
+    "Country code": "KH",
+    "Country name": "Cambodia",
+    "Continent": "Asia",
+    "Population": "17847982",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "4454"
+  },
+  {
+    "Country code": "KI",
+    "Country name": "Kiribati",
+    "Continent": "Oceania",
+    "Population": "136488",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "72"
+  },
+  {
+    "Country code": "KM",
+    "Country name": "Comoros",
+    "Continent": "Africa",
+    "Population": "882847",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "376"
+  },
+  {
+    "Country code": "KN",
+    "Country name": "Saint Kitts and Nevis",
+    "Continent": "North America",
+    "Population": "46922",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "184"
+  },
+  {
+    "Country code": "KP",
+    "Country name": "North Korea",
+    "Continent": "Asia",
+    "Population": "26571036",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "322"
+  },
+  {
+    "Country code": "KR",
+    "Country name": "South Korea",
+    "Continent": "Asia",
+    "Population": "51684564",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "28788"
+  },
+  {
+    "Country code": "KW",
+    "Country name": "Kuwait",
+    "Continent": "Asia",
+    "Population": "4865298",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "18466"
+  },
+  {
+    "Country code": "KY",
+    "Country name": "Cayman Islands",
+    "Continent": "North America",
+    "Population": "75844",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1231"
+  },
+  {
+    "Country code": "KZ",
+    "Country name": "Kazakhstan",
+    "Continent": "Asia",
+    "Population": "20843754",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "LA",
+    "Country name": "Laos",
+    "Continent": "Asia",
+    "Population": "7873046",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "431"
+  },
+  {
+    "Country code": "LB",
+    "Country name": "Lebanon",
+    "Continent": "Asia",
+    "Population": "5849421",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "29575"
+  },
+  {
+    "Country code": "LC",
+    "Country name": "Saint Lucia",
+    "Continent": "North America",
+    "Population": "180149",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "575"
+  },
+  {
+    "Country code": "LI",
+    "Country name": "Liechtenstein",
+    "Continent": "Europe",
+    "Population": "41024",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "437"
+  },
+  {
+    "Country code": "LK",
+    "Country name": "Sri Lanka",
+    "Continent": "Asia",
+    "Population": "21756000",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "10680"
+  },
+  {
+    "Country code": "LR",
+    "Country name": "Liberia",
+    "Continent": "Africa",
+    "Population": "5731206",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "49303"
+  },
+  {
+    "Country code": "LS",
+    "Country name": "Lesotho",
+    "Continent": "Africa",
+    "Population": "2363325",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1342"
+  },
+  {
+    "Country code": "LT",
+    "Country name": "Lithuania",
+    "Continent": "Europe",
+    "Population": "2888774",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "LU",
+    "Country name": "Luxembourg",
+    "Continent": "Europe",
+    "Population": "686970",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "27656"
+  },
+  {
+    "Country code": "LV",
+    "Country name": "Latvia",
+    "Continent": "Europe",
+    "Population": "1847785",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "LY",
+    "Country name": "Libya",
+    "Continent": "Africa",
+    "Population": "7458555",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "7548"
+  },
+  {
+    "Country code": "MA",
+    "Country name": "Morocco",
+    "Continent": "Africa",
+    "Population": "38430770",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "33577"
+  },
+  {
+    "Country code": "MC",
+    "Country name": "Monaco",
+    "Continent": "Europe",
+    "Population": "38341",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "2185"
+  },
+  {
+    "Country code": "MD",
+    "Country name": "Moldova",
+    "Continent": "Europe",
+    "Population": "2360527",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "5082"
+  },
+  {
+    "Country code": "ME",
+    "Country name": "Montenegro",
+    "Continent": "Europe",
+    "Population": "623129",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "4783"
+  },
+  {
+    "Country code": "MG",
+    "Country name": "Madagascar",
+    "Continent": "Africa",
+    "Population": "32740678",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "2288"
+  },
+  {
+    "Country code": "MH",
+    "Country name": "Marshall Islands",
+    "Continent": "Oceania",
+    "Population": "36282",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "66"
+  },
+  {
+    "Country code": "MK",
+    "Country name": "Macedonia",
+    "Continent": "Europe",
+    "Population": "1820909",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "10184"
+  },
+  {
+    "Country code": "ML",
+    "Country name": "Mali",
+    "Continent": "Africa",
+    "Population": "25198821",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "7827"
+  },
+  {
+    "Country code": "MM",
+    "Country name": "Myanmar [Burma]",
+    "Continent": "Asia",
+    "Population": "54850648",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "8739"
+  },
+  {
+    "Country code": "MN",
+    "Country name": "Mongolia",
+    "Continent": "Asia",
+    "Population": "3568978",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1704"
+  },
+  {
+    "Country code": "MO",
+    "Country name": "Macao",
+    "Continent": "Asia",
+    "Population": "685900",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1007"
+  },
+  {
+    "Country code": "MP",
+    "Country name": "Northern Mariana Islands",
+    "Continent": "Oceania",
+    "Population": "43541",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "582"
+  },
+  {
+    "Country code": "MQ",
+    "Country name": "Martinique",
+    "Continent": "North America",
+    "Population": "355500",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "0"
+  },
+  {
+    "Country code": "MR",
+    "Country name": "Mauritania",
+    "Continent": "Africa",
+    "Population": "5315065",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "MS",
+    "Country name": "Montserrat",
+    "Continent": "North America",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "MT",
+    "Country name": "Malta",
+    "Continent": "Europe",
+    "Population": "579704",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "6634"
+  },
+  {
+    "Country code": "MU",
+    "Country name": "Mauritius",
+    "Continent": "Africa",
+    "Population": "1243741",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "3008"
+  },
+  {
+    "Country code": "MV",
+    "Country name": "Maldives",
+    "Continent": "Asia",
+    "Population": "529676",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "3014"
+  },
+  {
+    "Country code": "MW",
+    "Country name": "Malawi",
+    "Continent": "Africa",
+    "Population": "22216120",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "2449"
+  },
+  {
+    "Country code": "MX",
+    "Country name": "Mexico",
+    "Continent": "North America",
+    "Population": "131946900",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "556935"
+  },
+  {
+    "Country code": "MY",
+    "Country name": "Malaysia",
+    "Continent": "Asia",
+    "Population": "35977838",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "56129"
+  },
+  {
+    "Country code": "MZ",
+    "Country name": "Mozambique",
+    "Continent": "Africa",
+    "Population": "35631653",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "6529"
+  },
+  {
+    "Country code": "NA",
+    "Country name": "Namibia",
+    "Continent": "Africa",
+    "Population": "3092816",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "4305"
+  },
+  {
+    "Country code": "NC",
+    "Country name": "New Caledonia",
+    "Continent": "Oceania",
+    "Population": "295333",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1037"
+  },
+  {
+    "Country code": "NE",
+    "Country name": "Niger",
+    "Continent": "Africa",
+    "Population": "27917831",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "3443"
+  },
+  {
+    "Country code": "NG",
+    "Country name": "Nigeria",
+    "Continent": "Africa",
+    "Population": "237527782",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "165897"
+  },
+  {
+    "Country code": "NI",
+    "Country name": "Nicaragua",
+    "Continent": "North America",
+    "Population": "7007502",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "36605"
+  },
+  {
+    "Country code": "NL",
+    "Country name": "Netherlands",
+    "Continent": "Europe",
+    "Population": "18087633",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "NO",
+    "Country name": "Norway",
+    "Continent": "Europe",
+    "Population": "5610870",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "NP",
+    "Country name": "Nepal",
+    "Continent": "Asia",
+    "Population": "29618118",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "36725"
+  },
+  {
+    "Country code": "NR",
+    "Country name": "Nauru",
+    "Continent": "Oceania",
+    "Population": "12025",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "41"
+  },
+  {
+    "Country code": "NU",
+    "Country name": "Niue",
+    "Continent": "Oceania",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "NZ",
+    "Country name": "New Zealand",
+    "Continent": "Oceania",
+    "Population": "5324700",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "49990"
+  },
+  {
+    "Country code": "OM",
+    "Country name": "Oman",
+    "Continent": "Asia",
+    "Population": "5494691",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "9818"
+  },
+  {
+    "Country code": "PA",
+    "Country name": "Panama",
+    "Continent": "North America",
+    "Population": "4571189",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "29129"
+  },
+  {
+    "Country code": "PE",
+    "Country name": "Peru",
+    "Continent": "South America",
+    "Population": "34576665",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "104025"
+  },
+  {
+    "Country code": "PF",
+    "Country name": "French Polynesia",
+    "Continent": "Oceania",
+    "Population": "282465",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "470"
+  },
+  {
+    "Country code": "PG",
+    "Country name": "Papua New Guinea",
+    "Continent": "Oceania",
+    "Population": "10762817",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "5491"
+  },
+  {
+    "Country code": "PH",
+    "Country name": "Philippines",
+    "Continent": "Asia",
+    "Population": "116786962",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "142030"
+  },
+  {
+    "Country code": "PK",
+    "Country name": "Pakistan",
+    "Continent": "Asia",
+    "Population": "255219554",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "263105"
+  },
+  {
+    "Country code": "PL",
+    "Country name": "Poland",
+    "Continent": "Europe",
+    "Population": "36435861",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "PM",
+    "Country name": "Saint Pierre and Miquelon",
+    "Continent": "North America",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "PN",
+    "Country name": "Pitcairn Islands",
+    "Continent": "Oceania",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "PR",
+    "Country name": "Puerto Rico",
+    "Continent": "North America",
+    "Population": "3184835",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "0"
+  },
+  {
+    "Country code": "PS",
+    "Country name": "Palestine",
+    "Continent": "Asia",
+    "Population": "5413596",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "10678"
+  },
+  {
+    "Country code": "PT",
+    "Country name": "Portugal",
+    "Continent": "Europe",
+    "Population": "10804871",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "93681"
+  },
+  {
+    "Country code": "PW",
+    "Country name": "Palau",
+    "Continent": "Oceania",
+    "Population": "17663",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "89"
+  },
+  {
+    "Country code": "PY",
+    "Country name": "Paraguay",
+    "Continent": "South America",
+    "Population": "7013078",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "62033"
+  },
+  {
+    "Country code": "QA",
+    "Country name": "Qatar",
+    "Continent": "Asia",
+    "Population": "2972215",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "13952"
+  },
+  {
+    "Country code": "RE",
+    "Country name": "Réunion",
+    "Continent": "Africa",
+    "Population": "896200",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "3125"
+  },
+  {
+    "Country code": "RO",
+    "Country name": "Romania",
+    "Continent": "Europe",
+    "Population": "19020271",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "70382"
+  },
+  {
+    "Country code": "RS",
+    "Country name": "Serbia",
+    "Continent": "Europe",
+    "Population": "6549143",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "42627"
+  },
+  {
+    "Country code": "RU",
+    "Country name": "Russia",
+    "Continent": "Europe",
+    "Population": "143513328",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "457804"
+  },
+  {
+    "Country code": "RW",
+    "Country name": "Rwanda",
+    "Continent": "Africa",
+    "Population": "14569341",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "5250"
+  },
+  {
+    "Country code": "SA",
+    "Country name": "Saudi Arabia",
+    "Continent": "Asia",
+    "Population": "36973555",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "57074"
+  },
+  {
+    "Country code": "SB",
+    "Country name": "Solomon Islands",
+    "Continent": "Oceania",
+    "Population": "838645",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "SC",
+    "Country name": "Seychelles",
+    "Continent": "Africa",
+    "Population": "122730",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "3039"
+  },
+  {
+    "Country code": "SD",
+    "Country name": "Sudan",
+    "Continent": "Africa",
+    "Population": "51662147",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "13072"
+  },
+  {
+    "Country code": "SE",
+    "Country name": "Sweden",
+    "Continent": "Europe",
+    "Population": "10596620",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "SG",
+    "Country name": "Singapore",
+    "Continent": "Asia",
+    "Population": "6111175",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "102792"
+  },
+  {
+    "Country code": "SH",
+    "Country name": "Saint Helena",
+    "Continent": "Africa",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "SI",
+    "Country name": "Slovenia",
+    "Continent": "Europe",
+    "Population": "2130986",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "SJ",
+    "Country name": "Svalbard and Jan Mayen",
+    "Continent": "Europe",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "SK",
+    "Country name": "Slovakia",
+    "Continent": "Europe",
+    "Population": "5413813",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "33366"
+  },
+  {
+    "Country code": "SL",
+    "Country name": "Sierra Leone",
+    "Continent": "Africa",
+    "Population": "8819794",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "4276"
+  },
+  {
+    "Country code": "SM",
+    "Country name": "San Marino",
+    "Continent": "Europe",
+    "Population": "34109",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "472"
+  },
+  {
+    "Country code": "SN",
+    "Country name": "Senegal",
+    "Continent": "Africa",
+    "Population": "18931966",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "21707"
+  },
+  {
+    "Country code": "SO",
+    "Country name": "Somalia",
+    "Continent": "Africa",
+    "Population": "19654739",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "14568"
+  },
+  {
+    "Country code": "SR",
+    "Country name": "Suriname",
+    "Continent": "South America",
+    "Population": "639850",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "2702"
+  },
+  {
+    "Country code": "SS",
+    "Country name": "South Sudan",
+    "Continent": "Africa",
+    "Population": "12188788",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "804"
+  },
+  {
+    "Country code": "ST",
+    "Country name": "São Tomé and Príncipe",
+    "Continent": "Africa",
+    "Population": "240254",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "133"
+  },
+  {
+    "Country code": "SV",
+    "Country name": "El Salvador",
+    "Continent": "North America",
+    "Population": "6365503",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "35066"
+  },
+  {
+    "Country code": "SY",
+    "Country name": "Syria",
+    "Continent": "Asia",
+    "Population": "25620427",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "15593"
+  },
+  {
+    "Country code": "SZ",
+    "Country name": "Swaziland",
+    "Continent": "Africa",
+    "Population": "1256174",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "604"
+  },
+  {
+    "Country code": "TC",
+    "Country name": "Turks and Caicos Islands",
+    "Continent": "North America",
+    "Population": "46855",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "3427"
+  },
+  {
+    "Country code": "TD",
+    "Country name": "Chad",
+    "Continent": "Africa",
+    "Population": "21003705",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "2413"
+  },
+  {
+    "Country code": "TG",
+    "Country name": "Togo",
+    "Continent": "Africa",
+    "Population": "8591626",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "2848"
+  },
+  {
+    "Country code": "TH",
+    "Country name": "Thailand",
+    "Continent": "Asia",
+    "Population": "71619863",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "24722"
+  },
+  {
+    "Country code": "TJ",
+    "Country name": "Tajikistan",
+    "Continent": "Asia",
+    "Population": "10786734",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1124"
+  },
+  {
+    "Country code": "TK",
+    "Country name": "Tokelau",
+    "Continent": "Oceania",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "TL",
+    "Country name": "EAST TIMOR",
+    "Continent": "Asia",
+    "Population": "1418517",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1320"
+  },
+  {
+    "Country code": "TM",
+    "Country name": "Turkmenistan",
+    "Continent": "Asia",
+    "Population": "7618847",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "520"
+  },
+  {
+    "Country code": "TN",
+    "Country name": "Tunisia",
+    "Continent": "Africa",
+    "Population": "12348573",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "17608"
+  },
+  {
+    "Country code": "TO",
+    "Country name": "Tonga",
+    "Continent": "Oceania",
+    "Population": "103742",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "410"
+  },
+  {
+    "Country code": "TR",
+    "Country name": "Turkey",
+    "Continent": "Asia",
+    "Population": "85878556",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "TT",
+    "Country name": "Trinidad and Tobago",
+    "Continent": "North America",
+    "Population": "1367764",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "6778"
+  },
+  {
+    "Country code": "TV",
+    "Country name": "Tuvalu",
+    "Continent": "Oceania",
+    "Population": "9492",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "43"
+  },
+  {
+    "Country code": "TW",
+    "Country name": "Taiwan",
+    "Continent": "Asia",
+    "Population": "23224721",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "TZ",
+    "Country name": "Tanzania",
+    "Continent": "Africa",
+    "Population": "70545865",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "17806"
+  },
+  {
+    "Country code": "UA",
+    "Country name": "Ukraine",
+    "Continent": "Europe",
+    "Population": "38980376",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "108336"
+  },
+  {
+    "Country code": "UG",
+    "Country name": "Uganda",
+    "Continent": "Africa",
+    "Population": "51384894",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "19415"
+  },
+  {
+    "Country code": "US",
+    "Country name": "United States",
+    "Continent": "North America",
+    "Population": "341784857",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "UY",
+    "Country name": "Uruguay",
+    "Continent": "South America",
+    "Population": "3384688",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "43717"
+  },
+  {
+    "Country code": "UZ",
+    "Country name": "Uzbekistan",
+    "Continent": "Asia",
+    "Population": "37053428",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "6697"
+  },
+  {
+    "Country code": "VC",
+    "Country name": "Saint Vincent",
+    "Continent": "North America",
+    "Population": "99924",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "VE",
+    "Country name": "Venezuela",
+    "Continent": "South America",
+    "Population": "28516896",
+    "Frequency source": "count",
+    "Reliability": "high",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "VG",
+    "Country name": "British Virgin Islands",
+    "Continent": "North America",
+    "Population": "39732",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "1622"
+  },
+  {
+    "Country code": "VI",
+    "Country name": "U.S. Virgin Islands",
+    "Continent": "North America",
+    "Population": "103792",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "2731"
+  },
+  {
+    "Country code": "VN",
+    "Country name": "Vietnam",
+    "Continent": "Asia",
+    "Population": "101598527",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "36816"
+  },
+  {
+    "Country code": "VU",
+    "Country name": "Vanuatu",
+    "Continent": "Oceania",
+    "Population": "335169",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "280"
+  },
+  {
+    "Country code": "WF",
+    "Country name": "Wallis and Futuna",
+    "Continent": "Oceania",
+    "Population": "0",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": ""
+  },
+  {
+    "Country code": "WS",
+    "Country name": "Samoa",
+    "Continent": "Oceania",
+    "Population": "219306",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "275"
+  },
+  {
+    "Country code": "XK",
+    "Country name": "Kosovo",
+    "Continent": "Asia",
+    "Population": "1576876",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "0"
+  },
+  {
+    "Country code": "YE",
+    "Country name": "Yemen",
+    "Continent": "Africa",
+    "Population": "41773878",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "15331"
+  },
+  {
+    "Country code": "YT",
+    "Country name": "Mayotte",
+    "Continent": "Africa",
+    "Population": "329000",
+    "Frequency source": "estimate",
+    "Reliability": "low",
+    "Usable profiles": "3546"
+  },
+  {
+    "Country code": "ZA",
+    "Country name": "South Africa",
+    "Continent": "Africa",
+    "Population": "64747319",
+    "Frequency source": "estimate",
+    "Reliability": "high",
+    "Usable profiles": "166628"
+  },
+  {
+    "Country code": "ZM",
+    "Country name": "Zambia",
+    "Continent": "Africa",
+    "Population": "21913874",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "13788"
+  },
+  {
+    "Country code": "ZW",
+    "Country name": "Zimbabwe",
+    "Continent": "Africa",
+    "Population": "16950795",
+    "Frequency source": "estimate",
+    "Reliability": "medium",
+    "Usable profiles": "12799"
+  }
+]
