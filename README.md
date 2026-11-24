@@ -1,7 +1,7 @@
 # Name Census top 100
 
 The Name Census top 100 is a free name database with the 100 most common first names and the 100 most common surnames of 209 countries.
-It is a sample of [Name Census](https://census.name), the name database with 7.984.096 first names and 11.986.282 surnames from 209 countries.
+It is a sample of [Name Census](https://census.name), the name database with 7.983.828 first names and 11.986.282 surnames from 209 countries.
 This edition was built in November 2026.
 
 ## Files
